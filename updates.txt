@@ -1,6 +1,8 @@
+4/8/2024
+Updated Tax System
+Businesses are taxed now
 4/5/2024
-- Added new Phone Script
-- Added ownable banks
-- Added cryptominer
-
+Added new Phone Script
+Added ownable banks
+Added cryptominer
 New Loading Screen
