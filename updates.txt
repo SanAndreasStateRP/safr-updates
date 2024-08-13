@@ -1,3 +1,7 @@
+8/12/2024
+Updated SADPS Fleet
+Added G&N buildings in sandy
+Changed out the Time Sync Script with a realtime Sync
 4/8/2024
 Updated Tax System
 Businesses are taxed now
