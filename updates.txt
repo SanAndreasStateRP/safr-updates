@@ -1,3 +1,7 @@
+8/13/2024
+Updated lc_stores script to allow for purchasable items. (ie phones, food, medkits etc..)
+Updated jg-advancedgarages
+updated jg-dealership
 8/12/2024
 Updated SADPS Fleet
 Added G&N buildings in sandy
