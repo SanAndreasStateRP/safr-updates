@@ -1,3 +1,5 @@
+8/14/2024
+Updated the Paycheck time from 7 mins to roughly 30 mins
 8/13/2024
 Updated lc_stores script to allow for purchasable items. (ie phones, food, medkits etc..)
 Updated jg-advancedgarages
