@@ -1,5 +1,6 @@
 8/14/2024
 Updated the Paycheck time from 7 mins to roughly 30 mins
+Added Fire Garages and dealerships added to both LS fire station at 6020 and BC fire station at 884
 8/13/2024
 Updated lc_stores script to allow for purchasable items. (ie phones, food, medkits etc..)
 Updated jg-advancedgarages
