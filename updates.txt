@@ -1,4 +1,7 @@
 8/17/2024
+Updated Emergency Response Simulator for FiveM
+------------------------------------------------
+8/17/2024 0230 Hours
 Added Emergency Response Simulator for FiveM
 Added Nightshift MDT
 Added Nightshift Discord API
