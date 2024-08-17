@@ -1,3 +1,11 @@
+8/17/2024
+Added Emergency Response Simulator for FiveM
+Added Nightshift MDT
+Added Nightshift Discord API
+Added Nightshift Prop System
+Added Nightshift Subtitles
+Added Nightshift Boat Rescue
+Disabled FivePD
 8/16/2024
 Added Smart Motorways to the server
 Updated plates to spawn correctly on vehicles
