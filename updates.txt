@@ -1,3 +1,6 @@
+8/16/2024
+Added Smart Motorways to the server
+Updated plates to spawn correctly on vehicles
 8/15/2024
 Added Roxwood Marina located at postal 972
 Updated BigDaddy-RideService Script to 3.6.1
