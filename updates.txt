@@ -1,3 +1,7 @@
+8/19/2024
+Updated Sonoran Shotspotter
+Updated Sonoran Traffic Cam's
+Added GN Paleto Sheriff
 8/18/2024
 Switched back to FivdPD from Emergency Response Simulator for FiveM
 8/17/2024
