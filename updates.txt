@@ -1,5 +1,6 @@
 8/21/2024
 Replaced chat script in server to BigDaddy-chat
+Fixed firesign near SADPS HQ - Clickup 86due7wgw
 8/19/2024
 Updated Sonoran Shotspotter
 Updated Sonoran Traffic Cam's
