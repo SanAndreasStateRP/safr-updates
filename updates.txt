@@ -1,3 +1,6 @@
+8/24/2024
+Added Rainmad fleeca Heist
+Added Rainmad union heist
 8/21/2024
 Replaced chat script in server to BigDaddy-chat
 Fixed firesign near SADPS HQ - Clickup 86due7wgw
