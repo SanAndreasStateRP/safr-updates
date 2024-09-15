@@ -1,6 +1,7 @@
 9/15/2024
 Added Wasabi-carlock
 Added more houses
+Added Warehouse script
 9/14/2024
 Updated to Ox_Inventory
 Upgraded to QS-Smartphone-Pro
