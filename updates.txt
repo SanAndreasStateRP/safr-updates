@@ -1,3 +1,9 @@
+9/14/2024
+Updated to Ox_Inventory
+Upgraded to QS-Smartphone-Pro
+Changed out Fuel script
+Added new shop items
+Updated most scripts to use Ox_Inventory
 9/12/2024
 Set the Radio Agency Menu to only work if a users has the correct job
 9/6/2024
