@@ -1,3 +1,7 @@
+9/19/2024
+Updated lc_stores to be able to buy more foods and drinks
+Removed esx_purchaseammo
+Removed esx_weaponshop
 9/18/2024
 Biker Gang script added to the server
 9/16/2024
