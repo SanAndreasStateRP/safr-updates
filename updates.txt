@@ -1,4 +1,6 @@
 9/19/2024
+Added weapon shops to Police Stations
+Updated LC_Utils to integrate with wasabi-carlock
 Updated lc_stores to be able to buy more foods and drinks
 Removed esx_purchaseammo
 Removed esx_weaponshop
