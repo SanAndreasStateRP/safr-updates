@@ -5,6 +5,7 @@ Updated LC_Utils to integrate with wasabi-carlock
 Updated lc_stores to be able to buy more foods and drinks
 Removed esx_purchaseammo
 Removed esx_weaponshop
+Removed AI Mechanic and Towtruck now need to use repair kits
 9/18/2024
 Biker Gang script added to the server
 9/16/2024
