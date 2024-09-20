@@ -1,4 +1,5 @@
 9/19/2024
+Added Body Armor to Ammunation and police weapon shops
 Added weapon shops to Police Stations
 Updated LC_Utils to integrate with wasabi-carlock
 Updated lc_stores to be able to buy more foods and drinks
