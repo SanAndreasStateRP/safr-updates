@@ -1,3 +1,10 @@
+9/27/2024
+Migrated SAFR Dev to Prod
+Added new dps fleet
+Added new heists
+Added new hospital
+Added new Legion square expansion
+Updated some of the current scripts
 9/19/2024
 Added Body Armor to Ammunation and police weapon shops
 Added weapon shops to Police Stations
