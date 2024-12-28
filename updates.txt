@@ -1,3 +1,9 @@
+12/27/2024
+Added DRC Scripts
+Drugs
+Trucking
+Fixed Wardrobes
+  Added ClothingBag's
 9/30/2024
 Updated FivePD Plugin
 Added Meter Maid vehicle 
