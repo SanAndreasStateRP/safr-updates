@@ -1,9 +1,29 @@
 12/27/2024
 Added DRC Scripts
-Drugs
-Trucking
+  Drugs
+  Trucking
+  Money Laundering
 Fixed Wardrobes
   Added ClothingBag's
+  Into Police Stores
+  Into Green Shop Markers Utilies Market
+New Prision Script added
+  Still need to fine-tune
+Offroad Script and Vehicle Damage Script Optomized for the winter Months. 
+Changed Davis
+  Added New Maps
+Carwash
+  SandyShores
+  MRPD
+Sandy Reborn Added 
+Vehicle Insurance and Registration System
+Health Insurance System 
+Fire Pannels Added
+  Sandy Sherrifs Office 
+  MRPD
+  DEFAULT LOCATIONS
+Most of the Important Buildings have Functional Elevators Using 3rd Eye
+Added Vehicle packs to Dealerships will continue to optomize.
 9/30/2024
 Updated FivePD Plugin
 Added Meter Maid vehicle 
