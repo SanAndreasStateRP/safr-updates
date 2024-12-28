@@ -24,6 +24,7 @@ Fire Pannels Added
   DEFAULT LOCATIONS
 Most of the Important Buildings have Functional Elevators Using 3rd Eye
 Added Vehicle packs to Dealerships will continue to optomize.
+New Server Graphics Pack
 9/30/2024
 Updated FivePD Plugin
 Added Meter Maid vehicle 
