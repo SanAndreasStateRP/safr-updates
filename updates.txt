@@ -1,3 +1,10 @@
+1/21/2025
+Evidence Script
+  Removed Wasbi Evidence
+  Added R14 Evidence
+Switched to Wasabi Police Job for all leo jobs
+updated majority of scripts
+EUP got a major update and will have more in the future
 12/28/2024
 updated payouts - inside-builder
 updated payouts - drc_truckerjob
